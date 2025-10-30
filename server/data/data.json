@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Kayaking",
+    "location": "Udupi, Karnataka",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d4327b0a6cfb2ad2c9b0d9a5e1c3751",
+    "tags": ["Water", "Group"],
+    "price": 999,
+    "currency": "₹",
+    "description": "Curated small-group experience. Certified guide. Safety first with gear included."
+  },
+  {
+    "id": 2,
+    "title": "Nandi Hills Sunrise",
+    "location": "Bangalore",
+    "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=ad3f4d66f8dab7a1c01b8c6f7d0b6f22",
+    "tags": ["Sunrise", "Hike"],
+    "price": 899,
+    "currency": "₹",
+    "description": "A beautiful sunrise trek. Perfect for early birds and photographers."
+  },
+  {
+    "id": 3,
+    "title": "Coffee Trail",
+    "location": "Coorg",
+    "thumbnail": "https://images.unsplash.com/photo-1559556064-4161b6be179b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29mZmVlJTIwZmFybXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600",
+    "tags": ["Nature", "Coffee"],
+    "price": 1599,
+    "currency": "₹",
+    "description": "Explore coffee plantations and taste fresh brews."
+  },
+  {
+    "id": 4,
+    "title": "Boat Cruise",
+    "location": "Sunderban",
+    "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=9c7a3f3f6c9d6f6e2f1d9e4c1b3a4c7d",
+    "tags": ["Boat", "Relax"],
+    "price": 999,
+    "currency": "₹",
+    "description": "Relaxing cruise with scenic views and onboard snacks."
+  },
+  {
+    "id": 5,
+    "title": "Bungee Jumping",
+    "location": "Manali",
+    "thumbnail": "https://images.unsplash.com/photo-1564797663359-624328971f55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=765",
+    "tags": ["Adventure", "Thrill"],
+    "price": 999,
+    "currency": "₹",
+    "description": "Adrenaline-pumping bungee jump with safety-certified gear."
+  },
+  {
+    "id": 6,
+    "title": "Kayaking (Sunset)",
+    "location": "Udupi",
+    "thumbnail": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=3b7f4fdfc1a4b1b2c3d4e5f6a7b8c9d0",
+    "tags": ["Water", "Sunset"],
+    "price": 999,
+    "currency": "₹",
+    "description": "Sunset kayaking trip with light refreshments."
+  },
+  {
+    "id": 7,
+    "title": "Forest Walk",
+    "location": "Coorg",
+    "thumbnail": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=6a1b3c2d4e5f6a7b8c9d0e1f2a3b4c5d",
+    "tags": ["Nature", "Walk"],
+    "price": 1899,
+    "currency": "₹",
+    "description": "Guided forest walk—learn about native flora and fauna."
+  },
+  {
+    "id": 8,
+    "title": "Photography Walk",
+    "location": "Bangalore",
+    "thumbnail": "https://images.unsplash.com/photo-1470770903676-69b98201ea1c?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b",
+    "tags": ["Photography", "City"],
+    "price": 899,
+    "currency": "₹",
+    "description": "Street photography walk with tips from a pro."
+  }
+]

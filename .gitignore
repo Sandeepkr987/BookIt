@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+
+# Dependency directories
+node_modules/
+
+# Test and debug files
+/coverage
+npm-debug.log*
+
+# Built files for production
+client/build/
+client/dist/
+
+# Logs
+server/logs/
